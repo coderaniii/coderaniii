@@ -21,8 +21,7 @@ const anjali = {
   currentlyDoing: "Summer Internship @ Tata Steel",
   building: "Plant Maintenance Management System (PMMS)",
   techStack: ["React", "Node.js", "Express", "MongoDB"],
-  goal: "Build products that solve real problems",
-  funFact: "I built a full-stack app in one day and it's going to production 🔥"
+  goal: "Build products that solve real problems"
 };
 ```
 
