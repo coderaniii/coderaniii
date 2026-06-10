@@ -108,12 +108,10 @@ Built during my Tata Steel internship.
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/coderaniii/coderaniii/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
+<img src="https://raw.githubusercontent.com/coderaniii/coderaniii/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
