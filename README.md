@@ -149,11 +149,11 @@ Current Status → still building 😭
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/anjali-anand-b297082a0/)">
 <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:itzanjalianand@gmail.com">
 <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
