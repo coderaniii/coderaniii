@@ -4,7 +4,7 @@
 
 ### Full Stack Developer • MERN • Building Real-World Products
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-anand-b297082a0/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coderaniii)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=coderaniii&color=red&style=flat-square)
@@ -80,6 +80,6 @@ const anjali = {
 
 <div align="center">
 
-*"Ship it, then improve it."*
+*"Code,Eat,Sleep,Repeat"*
 
 </div>
