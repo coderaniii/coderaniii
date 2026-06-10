@@ -2,7 +2,7 @@
 
 # 🌷 Hey, I'm Anjali
 
-### A Computer Science student trying to turn ideas into products before placement season catches up with me 😭
+### A Computer Science student trying to turn ideas into products .
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Building+PMMS+at+Tata+Steel;Learning+MERN+one+bug+at+a+time;Preparing+for+Placements+2027;Turning+Ideas+Into+Projects" />
 
