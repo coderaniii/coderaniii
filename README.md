@@ -98,6 +98,22 @@ Built during my Tata Steel internship.
 
 ---
 
+## 🧩 Coding Practice
+
+<p align="center">
+
+<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Nunito&ext=heatmap" />
+
+</p>
+
 ## 📊 GitHub Journey
 
 <p align="center">
