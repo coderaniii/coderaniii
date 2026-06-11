@@ -111,7 +111,7 @@ Built during my Tata Steel internship.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coderaniii/coderaniii/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/coderaniii/coderaniii/output/github-contribution-grid-snake.svg?raw=true" alt="snake">
 </p>
 
 ---
