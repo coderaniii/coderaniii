@@ -110,7 +110,7 @@ Built during my Tata Steel internship.
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Nunito&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/aniithecoder?theme=dark&font=Nunito&ext=heatmap" />
 
 </p>
 
