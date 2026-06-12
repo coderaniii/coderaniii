@@ -10,7 +10,7 @@
 
 ---
 
-## 🌸 About Me
+## 🌸 About Me!
 
 ```text
 Name            : Anjali Anand
@@ -89,7 +89,7 @@ Built during my Tata Steel internship.
 
 ---
 
-## 🌈 Things I Want To Build
+##  Things I Want To Build
 
 * 🤖 AI-powered Fault Detection System
 * 📈 Placement Preparation Tracker
