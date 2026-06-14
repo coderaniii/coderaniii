@@ -10,7 +10,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=coderaniii&label=Profile%20Views&color=f7a8b8&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Building-Cool%20Stuff-%23f7a8b8?style=for-the-badge" />
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-f7a8b8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  🌷 Thanks for visiting my little corner of GitHub 🌷
 </p>
 
 ---
