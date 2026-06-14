@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=coderaniii&label=Profile%20Views&color=f7a8b8&style=for-the-badge" />
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/anjali-anand-b297082a0/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-f7a8b8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
