@@ -8,6 +8,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=coderaniii&label=Profile%20Views&color=f7a8b8&style=for-the-badge" alt="profile views" />
+</p>
+
 ---
 
 ## 🌸 About Me!
