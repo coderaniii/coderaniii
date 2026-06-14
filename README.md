@@ -9,8 +9,8 @@
 </div>
 
 <p align="center">
-  🌷 Thanks for visiting my little corner of GitHub 🌷 <br><br>
-  <img src="https://komarev.com/ghpvc/?username=coderaniii&label=Visitors&color=f7a8b8&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=coderaniii&label=Profile%20Views&color=f7a8b8&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-Cool%20Stuff-%23f7a8b8?style=for-the-badge" />
 </p>
 
 ---
