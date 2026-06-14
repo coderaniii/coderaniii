@@ -9,7 +9,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=coderaniii&label=Profile%20Views&color=f7a8b8&style=for-the-badge" alt="profile views" />
+  🌷 Thanks for visiting my little corner of GitHub 🌷 <br><br>
+  <img src="https://komarev.com/ghpvc/?username=coderaniii&label=Visitors&color=f7a8b8&style=for-the-badge" />
 </p>
 
 ---
