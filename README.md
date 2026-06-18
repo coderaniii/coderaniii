@@ -158,7 +158,7 @@ Fixed first bug → confidence returned
 
 Started PMMS → confidence disappeared again
 
-Current Status → still building 😭
+Deployed PMMS → confidence (mostly) restored 😌
 ```
 
 ---
