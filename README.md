@@ -26,7 +26,6 @@
 ```text
 Name            : Anjali Anand
 University      : KIIT University
-Current Mission : PMMS @ Tata Steel
 Role            : Full Stack Developer (in progress 😭)
 Status          : Learning, Building, Repeating
 ```
