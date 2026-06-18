@@ -26,8 +26,7 @@
 ```text
 Name            : Anjali Anand
 University      : KIIT University
-Current Mission : PMMS @ Tata Steel
-Role            : Full Stack Developer (in progress 😭)
+Role            : Full Stack Developer
 Status          : Learning, Building, Repeating
 ```
 
@@ -67,6 +66,8 @@ Built during my Tata Steel internship.
 ✨ Dashboard Analytics
 
 ✨ Authentication & User Management
+
+✨ AI-Powered Fault Diagnosis
 
 ### What I'm Learning Through It
 
@@ -157,7 +158,7 @@ Fixed first bug → confidence returned
 
 Started PMMS → confidence disappeared again
 
-Current Status → still building 😭
+Deployed PMMS → confidence (mostly) restored 😌
 ```
 
 ---
