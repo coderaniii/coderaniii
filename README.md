@@ -103,7 +103,9 @@ Built during my Tata Steel internship.
 
 ##  Things I Want To Build
 
-* 🤖 AI-powered Fault Detection System
+* 🌈 Something that makes someone's life 1% easier
+* 🪴 A little side project just for fun, no deadlines attached
+* 🎨 Something pretty AND useful (rare combo, I know)
 * 📈 Placement Preparation Tracker
 * 🎯 Learning Platform for Students
 * 🚀 Something that thousands of people actually use
