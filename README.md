@@ -67,6 +67,8 @@ Built during my Tata Steel internship.
 
 ✨ Authentication & User Management
 
+✨ AI-Powered Fault Diagnosis
+
 ### What I'm Learning Through It
 
 * Database Design
