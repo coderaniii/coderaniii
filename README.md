@@ -184,7 +184,7 @@ Deployed PMMS → confidence (mostly) restored 😌
 <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:itzanjalianand@gmail.com">
+<a href="mailto:anjalianand2752@gmail.com">
 <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
