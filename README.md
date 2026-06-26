@@ -4,7 +4,7 @@
 
 ### A Computer Science student trying to turn ideas into products .
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Building+PMMS+at+Tata+Steel;Learning+MERN+one+bug+at+a+time;Turning+Ideas+Into+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Projects;Learning+MERN+one+bug+at+a+time;Learning DSA" />
 
 </div>
 
