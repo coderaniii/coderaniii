@@ -169,9 +169,10 @@ Deployed PMMS → confidence (mostly) restored 😌
 ## 📅 Right Now
 
 ```text
-🏭 Internship at Tata Steel
-💻 Building PMMS
-📚 Placement Preparation
+💻 Building Full Stack Projects
+📚 Preparing for Placements
+🧠 Solving DSA Problems
+🚀 Looking for SDE Opportunities
 ☕ Running on determination
 ```
 
