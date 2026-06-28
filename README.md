@@ -155,13 +155,13 @@ Started learning → got excited
 
 Built first project → felt unstoppable
 
-Found first bug → confidence disappeared
+Found first bug → questioned my life choices
 
-Fixed first bug → confidence returned
+Fixed first bug → felt like a genius
 
-Started PMMS → confidence disappeared again
+Completed my Tata Steel internship → leveled up
 
-Deployed PMMS → confidence (mostly) restored 😌
+Next mission → crack placements 🚀
 ```
 
 ---
