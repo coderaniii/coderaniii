@@ -34,7 +34,7 @@ Status          : Learning, Building, Repeating
 
 I love building projects that solve actual problems.
 
-Currently exploring how software is designed in the real world through my internship at Tata Steel while preparing for placements and trying not to start 10 projects at the same time.
+I recently completed my internship at Tata Steel, where I built a Plant Maintenance Management System (PMMS) and gained hands-on experience developing software for real-world industrial workflows. Now I'm focused on building impactful full-stack projects, preparing for placements, and trying not to start 10 projects at the same time.
 
 ---
 
