@@ -40,12 +40,11 @@ I recently completed my internship at Tata Steel, where I built a Plant Maintena
 
 ## ☕ What I'm Usually Doing
 
-* 🏭 Building a Plant Maintenance Management System
-* 💻 Learning MERN Stack
-* 📚 Preparing for placements
-* 🧠 Thinking of startup ideas at random times
-* 🎯 Making dashboards prettier than they need to be
-* 😭 Fixing bugs that definitely weren't there yesterday
+* 💻 Building Full Stack Web Applications *
+* 🚀 Improving my PMMS project *
+* 📚 Preparing for placements *
+* 🧠 Learning DSA & System Design *
+* 😭 Fixing bugs that definitely weren't there yesterday *
 
 ---
 
