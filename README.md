@@ -38,7 +38,6 @@ I recently completed my internship at Tata Steel, where I built a Plant Maintena
 
 ---
 
-```md
 ## ☕ What I'm Usually Doing
 
 - 💻 Building Full Stack Web Applications
@@ -46,8 +45,6 @@ I recently completed my internship at Tata Steel, where I built a Plant Maintena
 - 📚 Preparing for placements
 - 🧠 Learning DSA & System Design
 - 😭 Fixing bugs that definitely weren't there yesterday
-```
-
 
 ---
 
