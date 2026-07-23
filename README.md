@@ -28,7 +28,7 @@
 ```text
 Name            : Anjali Anand
 University      : KIIT University
-Role            : Full Stack Developer
+Role            : Full Stack Web Developer
 Status          : Learning, Building, Repeating
 ```
 
