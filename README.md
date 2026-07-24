@@ -178,7 +178,7 @@ Next mission → crack placements 🚀
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Let's Connect 
 
 <p align="center">
 
@@ -198,6 +198,6 @@ Next mission → crack placements 🚀
 
 ### 🌷 Code • Build • Learn • Repeat
 
-*"The goal isn't to know everything. The goal is to keep building."*
+*"The goal isn't to know everything. The goal is to keep building and learning."*
 
 </div>
